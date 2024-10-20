@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void solve() {
-        int n, q; cin >> n >> q;
+        int a, q; cin >> a >> q;
         int ans = 0;
         for(int i = 1; i <= n; i++) {
                 int x; cin >> x;
